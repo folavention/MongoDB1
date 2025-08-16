@@ -1,0 +1,79 @@
+{
+    "High Performers": [
+        {
+            "first_name": "Christopher",
+            "last_name": "Robinson",
+            "department": "Marketing",
+            "salary": 94189,
+            "performance_rating": 4.8
+        },
+        {
+            "first_name": "Alexandra",
+            "last_name": "Moore",
+            "department": "Quality Assurance",
+            "salary": 112637,
+            "performance_rating": 4.9
+        },
+        {
+            "first_name": "Rick",
+            "last_name": "Johnson",
+            "department": "Junior Marketer",
+            "salary": 115300,
+            "performance_rating": 4.9
+        }
+    ],
+    "Experience & Salary Filter": [
+        {
+            "first_name": "David",
+            "last_name": "Hernandez",
+            "email": "johnsoncarol@example.com",
+            "department": "Sales"
+        },
+        {
+            "first_name": "Roy",
+            "last_name": "Nunez",
+            "email": "davidsmith@example.net",
+            "department": "Business Development"
+        },
+        {
+            "first_name": "Christopher",
+            "last_name": "Robinson",
+            "email": "fernandezjudy@example.net",
+            "department": "Marketing"
+        }
+    ],
+    "Salary Outside Range": [
+        {
+            "salary": 56554,
+            "years_experience": 15,
+            "full_name": "Richard Taylor"
+        },
+        {
+            "salary": 47775,
+            "years_experience": 4,
+            "full_name": "Anne Norris"
+        },
+        {
+            "salary": 102516,
+            "years_experience": 1,
+            "full_name": "Allison Lowe"
+        }
+    ],
+    "Recent Hires": [
+        {
+            "full_name": "Rick Johnson",
+            "tenure_months": 4.233101291280864,
+            "annual_salary": 115300
+        },
+        {
+            "full_name": "Ashley Jackson",
+            "tenure_months": 19.96891649189815,
+            "annual_salary": 116200
+        },
+        {
+            "full_name": "Alison Dean",
+            "tenure_months": 21.754783775848765,
+            "annual_salary": 101258
+        }
+    ]
+}
